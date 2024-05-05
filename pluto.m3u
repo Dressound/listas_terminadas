@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/cl.xml"
 
+<<<<<<< HEAD
 #EXTINF:-1,Dragon Ball Z capítulo 1
 https://download2296.mediafire.com/kmbo3h0dk1zgP8s1zx1c6gwmQ9cvm0i2rpwFGSlfLfa2bwkCcA5auPbZ_-eh8UUksUFaAvKep4E9146WII1pZ5xELzBpgDlZrbpfqtoTb8_PzEiRh9Faz88uByoDjXXo0qYDy5TvTm1hahzfCNZ_4H8DGQuuL1ODpTDtCZ0KxnPMF0Q/mxbg5x1740mouue/dbz01.mp4
 
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/LsfsIW/poster/arthur-una-amistad-sin-limites_z1aGBtQ.jpeg", tvg-chno="18" group-title="Películas", Arthur: Una amistad sin límites Película 2024
+=======
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJjZWRhNDItNGY4ZS00NWY1LTllZTgtZTE2NDY1NWU1ODIxXkEyXkFqcGdeQXVyMzkzODQwMA@@._V1_.jpg", tvg-chno="18" group-title="sERIE Otokojuku SUB ESPAÑOL", sERIE Otokojuku SUB ESPAÑOL
+>>>>>>> 9df6c0af09556005c2f201e64d254503d68b1302
 https://archive.org/download/sakigake-otokojuku-33/_Sakigake%21%21%20Otokojuku%2032.avi
 
 #EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/LsfsIW/poster/arthur-una-amistad-sin-limites_z1aGBtQ.jpeg", tvg-chno="18" group-title="Películas", Arthur: Una amistad sin límites Película 2024
