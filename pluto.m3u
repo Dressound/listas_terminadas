@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/cl.xml"
 
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/LsfsIW/poster/arthur-una-amistad-sin-limites_z1aGBtQ.jpeg", tvg-chno="18" group-title="Películas", Arthur: Una amistad sin límites Película 2024
+https://archive.org/download/ver-arthur-una-amistad-sin-limites-2024-pelicula-completa-online-4/Ver%20Arthur-%20Una%20amistad%20sin%20limites%20%282024%29%20-%20Película%20Completa%20Online_4.mp4
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/2902985.jpg", tvg-chno="18" group-title="Películas", Un jefe en pañales 1
 http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
 
