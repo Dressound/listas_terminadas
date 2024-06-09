@@ -478,3 +478,26 @@ https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Música" , Karaoke por Stingray
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S01 E01
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/299024.mp4
+
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S01 E02
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/299025.mp4
+
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S01 E03
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/299026.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S01 E04
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/299027.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S01 E05
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/299028.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S02 E01
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/308758.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S02 E02
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/308759.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S02 E03
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/308760.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S02 E04
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/308761.mp4
+#EXTINF:-1 channel-id="55" tvg-id="55" tvg-logo="" group-title="Yo soy Groot (2023)" , Yo soy Groot (2023) (R) S02 E05
+http://rasaiptv.com:8080/series/nhZ6n2VY/5m8EnS7Vhyge/308762.mp4
